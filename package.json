@@ -1,0 +1,17 @@
+{
+  "name": "api_testing",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+  "test": "cucumber-js"
+  },
+  "keywords": [],
+  "author": "Rani Sindaram",
+  "license": "ISC",
+  "description": "BBC API Testing Assessment",
+  "dependencies": {
+    "@cucumber/cucumber": "^11.0.0",
+    "axios": "^1.7.7"
+    
+  }
+}
